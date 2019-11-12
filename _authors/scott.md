@@ -1,5 +1,5 @@
 ---
-short_name: Scott
+short_name: scott
 name: Scott
 position: Developer
 ---
