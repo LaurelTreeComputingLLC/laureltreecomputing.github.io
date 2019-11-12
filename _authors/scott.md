@@ -1,6 +1,6 @@
 ---
-short_name: scott
-name: scott
+short_name: Scott
+name: Scott
 position: Developer
 ---
 Scott is developing!!
