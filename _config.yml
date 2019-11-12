@@ -22,6 +22,7 @@ lsi: false
 safe: true
 incremental: false
 highlighter: rouge
+#source: /
 gist:
 noscript: false
 kramdown:
@@ -33,7 +34,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   I'm coding and writing about it! Hi, I'm currently changing careers
   to Software Development, sort of a 2nd time around, but this time
   I mean business. I write about my progress and results in this blog.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog/" # the subpath of your site, e.g. /blog
 url: "https://laureltreecomputingllc.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  nicebub
