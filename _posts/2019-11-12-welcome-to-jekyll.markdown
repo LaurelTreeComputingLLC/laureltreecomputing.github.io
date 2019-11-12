@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to my new blog!"
+date:   2019-11-12 10:04:23 -0700
+categories: jekyll update
+---
+So this is the start of my new coding blog! This initial post will be changing until i understand jekyll just a little more.
+
+I don't want to fill the blog with useless updates as I figure out how the blog itself works.
