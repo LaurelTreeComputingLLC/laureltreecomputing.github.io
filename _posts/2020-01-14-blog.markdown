@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "Getting it not so quite right..."
+author: scott
+date:   2020-01-14 12:50:13 -0700
+categories: jekyll update
+---
+# So.  
+I didn't quite continue my foray into the embedded C realm just yet, as I put it aside to finish reading development related books and grow in other directions.
+
+# - Reading a few books -
+## Completed Books list:
+
+- [Compilers: Principles, Techniques, and Tools - 1st edition](https://www.amazon.com/Compilers-Principles-Techniques-Alfred-Aho/dp/0201100886/ref=sr_1_2?crid=2M4A0L2JY629P&keywords=compilers+principles%2C+techniques%2C+and+tools&qid=1579041378&sprefix=compilers+p%2Caps%2C211&sr=8-2) AND [2nd edition](https://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811/ref=sr_1_1?crid=2M4A0L2JY629P&keywords=compilers+principles%2C+techniques%2C+and+tools&qid=1579041378&sprefix=compilers+p%2Caps%2C211&sr=8-1) - Alfred V. Aho, Ravi Sethi, Jeffrey D. Ullman, Monica S. Lam (Both Completed)
+- [A Logical Approach to Discrete Math](https://www.amazon.com/gp/product/1441928359/ref=dbs_a_def_rwt_bibl_vppi_i0) - David Gries, Fred B. Schneider(Completed)
+- [Low-Level Programming](https://www.amazon.com/Low-Level-Programming-Assembly-Execution-Architecture/dp/1484224027/ref=sr_1_1?crid=3VVLRHVYV3EBD&keywords=low-level+programming&qid=1579041754&s=books&sprefix=low-level+%2Cstripbooks%2C177&sr=1-1) - Igor Zhirkov (Completed)
+- [Introduction to 64 Bit Assembly Programming for Linux and OS X - 2nd edition](https://www.amazon.com/Introduction-Intel-Assembly-Language-Programming/dp/1478119209/ref=sr_1_1?crid=3FNPZEYPLH9VG&keywords=introduction+to+64+bit+intel+assembly+language+programming+for+linux&qid=1579041866&sprefix=introduction+to+64%2Cstripbooks%2C173&sr=8-1) - Ray Seyfarth (Completed)
+- [Clean Agile - Back to Basics](https://www.amazon.com/Clean-Agile-Basics-Robert-Martin/dp/0135781868/ref=sr_1_1?keywords=clean+agile&qid=1579041912&sr=8-1) - Robert C. Martin (Completed)
+
+## Reading but not completed yet:
+
+- [Data Structures & Their Algorithms](https://www.amazon.com/Structures-Their-Algorithms-Harry-Denenberg/dp/B000L5AZGS/ref=sr_1_1?crid=1YFLEXUQBTJUN&keywords=data+structures+and+their+algorithms&qid=1579041692&s=books&sprefix=data+structures+and+their%2Cstripbooks%2C178&sr=1-1) - Larry Lewis, Harry R. Denenberg
+- [C++ Crash Course - A Fast-Paced Introduction](https://www.amazon.com/C-Crash-Course-Josh-Lospinoso/dp/1593278888/ref=sr_1_1?keywords=c%2B%2B+crash+course&qid=1579041798&s=books&sr=1-1) - Josh Lospinoso
+- [Cracking the Coding Interview - 189 Programming Questions & Solutions](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850/ref=sr_1_2?crid=3E18QRK1PWSNE&keywords=cracking+the+coding+interview&qid=1579041839&s=books&sprefix=cracking%2Cstripbooks%2C192&sr=1-2) - Gayle Laakmann Mcdowell
+
+## Other books that I own and intend on reading shortly:
+
+- [Modern Java in Action: Lambdas, streams, functional and reactive programming - 2nd edition](https://www.amazon.com/Modern-Java-Action-functional-programming/dp/1617293563/ref=sr_1_1?keywords=modern+java&qid=1579041963&sr=8-1) - Raoul-Gabriel Ulma, Mario Fusco, Alan Mycroft
+- [Java in a Nutshell: A Desktop Quick Reference - 7th Edition](https://www.amazon.com/Java-Nutshell-Desktop-Quick-Reference-dp-1492037257/dp/1492037257/ref=mt_paperback?_encoding=UTF8&me=&qid=1579042707) - Evans & Flanagan
+- [Learning Python - 5th edition](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730/ref=redir_mobile_desktop?_encoding=UTF8&aaxitk=8MmdFb0gR-cDf8F1a95ZDg&hsa_cr_id=4158170100401&ref_=sb_s_sparkle_slot) - Mark Luiz
+- [Sams Teach Yourself C++ in One Hour a Day - 8th edition](https://www.amazon.com/One-Hour-Sams-Teach-Yourself/dp/0789757745/ref=sr_1_2?keywords=teach+yourself+c%2B%2B&qid=1579042769&s=books&sr=1-2), updated content for C++14 & C++17 - Siddhartha Rao
+- [Daily Coding Problems](https://www.amazon.com/Daily-Coding-Problem-exceptionally-interviews/dp/1793296634/ref=sr_1_2?keywords=daily+coding+problem&qid=1579042870&s=books&sr=1-2) - Alex Miller, Lawrence Wu 
+- [The Pragmatic Programmer 20th Anniversary Edition - 2nd edition](https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052/ref=sr_1_1?keywords=pragmatic+programmer&qid=1579042899&s=books&sr=1-1) - David Thomas, Andrew Hunt
