@@ -15,6 +15,7 @@ gem "minima", "~> 2.5.0"
  gem "github-pages", "~> 202",group: :jekyll_plugins
 # If you have any plugins, put them here!
 group :jekyll_plugins do
+  gem "jekyll-compose"
   gem "jekyll-sitemap","~>1.2.0"
   gem "jekyll-feed", "~> 0.11.0"
   gem "jekyll-seo-tag", "~>2.5.0"
@@ -30,4 +31,3 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-
