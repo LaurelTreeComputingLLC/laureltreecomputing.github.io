@@ -3,7 +3,7 @@ layout: post
 title:  "Welcome to my new blog!"
 author: scott
 date:   2019-11-12 10:04:23 -0700
-categories: jekyll update
+categories: 
 ---
 So this is the start of my new coding blog! This initial post will be changing until i understand jekyll just a little more.
 

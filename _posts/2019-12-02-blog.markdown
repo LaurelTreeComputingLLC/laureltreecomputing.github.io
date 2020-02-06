@@ -3,7 +3,7 @@ layout: post
 title:  "After Thanksgiving Adventures in Embedded Memory Management"
 author: scott
 date:   2019-12-02 06:25:08 -0700
-categories: jekyll update
+categories: 
 ---
 Embedded systems can have limited resources such as memory.  With this in mind, developers try to maximize the size and performance of their code not only at compile time, but at link edit/load time, and runtime as well.
 

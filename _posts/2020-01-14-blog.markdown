@@ -3,7 +3,7 @@ layout: post
 title:  "Getting it not so quite right..."
 author: scott
 date:   2020-01-14 12:50:13 -0700
-categories: jekyll update
+categories: 
 ---
 # So.  
 I didn't quite continue my foray into the embedded C realm just yet, as I put it aside to finish reading development related books and grow in other directions.
