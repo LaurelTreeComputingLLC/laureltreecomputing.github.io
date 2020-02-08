@@ -1,0 +1,59 @@
+---
+permalink: /.well-known/keybase.txt
+---
+==================================================================
+https://keybase.io/sxoots
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://laureltreecomputingllc.github.io
+  * I am sxoots (https://keybase.io/sxoots) on keybase.
+  * I have a public key ASAyCh2Qc9OJnkXsE8dQexwbc1E-05e3bkwnG4dzIDkz3Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01206ad99e16dcd216d22e736e45d540cd86d8162f6f971c96ba6c205679516387ff0a",
+      "host": "keybase.io",
+      "kid": "0120320a1d9073d3899e45ec13c7507b1c1b73513ed397b76e4c271b8773203933dc0a",
+      "uid": "f74740e39a93489ebd71d089e14cb419",
+      "username": "sxoots"
+    },
+    "merkle_root": {
+      "ctime": 1581139078,
+      "hash": "263223f4be02c18ab1acfc9d7daa83be44636b5e68ea11b6e893458ebf6577f43419303683c47623743bfddcaf11603ef52187020a50092a8753b45c9ec9e778",
+      "hash_meta": "8f14b5a684809ad0386e0a849a5a6ad5e47bc1595dcf21b98b99871b88903a65",
+      "seqno": 14532088
+    },
+    "service": {
+      "entropy": "dZv0h/eUSiC/qzTE9YARIE/u",
+      "hostname": "laureltreecomputingllc.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.2.0"
+  },
+  "ctime": 1581139093,
+  "expire_in": 504576000,
+  "prev": "9af2506cf945bcbcc3bbb25f1432f3529c49283cdcb8c48170bae8608c8d50e1",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMgodkHPTiZ5F7BPHUHscG3NRPtOXt25MJxuHcyA5M9wKp3BheWxvYWTESpcCFMQgmvJQbPlFvLzDu7JfFDLzUpxJKDzcuMSBcLroYIyNUOHEILMGg9AfmNspP6ZwcoGjFmnFMgQwkcV7AhXqHsIgiW0jAgHCo3NpZ8RAJx9LP/E5Xe4mpspJrTaUgxRnoNnpiNwTgHWUGYhkWgDn5FPfwNSkzTnodCqMRlsCW49CSAf2S6bW+PgvQGo7BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOaJKnHBXWxAit3H8hrVQsdfsMf7t0u67Xmp/97ozxAJo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sxoots
+
+==================================================================
