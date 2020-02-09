@@ -3,6 +3,8 @@ short_name: scott
 name: Scott
 position: Developer
 ---
+![image](/assets/images/clas.png)
+
 Scott is developing!!
 As the sole member of the company, Scott is interested in providing software development services to the Greater Denver area.
 
