@@ -6,8 +6,10 @@ description: Unit Testing with Unity in C when writing your own unit tests aren'
 image: 
 category: 
 tags: 
-date: 2020-02-25 20:51 -0700
+date: 2020-02-25 21:22 -0700
 ---
+Unit Testing with Unity in C as I've learned it so far.
+
 # Unit Testing
 
 I won't go into detail about Unit Testing. But in my own words it means testing each individual module, class, function, or piece of code individually and self-contained for flaws, bugs, or the lack thereof.
@@ -71,7 +73,15 @@ void test_add_item_to_my_set(void){
 	add_integer_to_my_set(my_set);
 }
 ```
+Inside of your tests you use 'assert' macro statements to check the validity of your code:
 
+```
+void test_add_item_to_my_set(void){
+	TEST_ASSERT_EQUAL(0,get_num_items_in_set(my_set));
+	add_item_to_set(item, my_set);
+	TEST_ASSERT_EQUAL(1,get_num_items_in_set(my_set));
+}
+```
 
 In the main(void) function(you won't usually be needing the command-line arguments but probably can).
 

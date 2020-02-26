@@ -5,8 +5,9 @@ author: scott
 date:   2020-01-14 12:50:13 -0700
 categories: 
 ---
-# So.  
 I didn't quite continue my foray into the embedded C realm just yet, as I put it aside to finish reading development related books and grow in other directions.
+
+# So.  
 
 # - Reading a few books -
 ## Completed Books list:
